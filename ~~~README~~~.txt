@@ -29,9 +29,8 @@
 								|____________|
 
 
->>Fully coded and built by Ankan Das, ankandas2222@gmail.com, @RektAlter
+>>Fully coded and built by Ankan Das, ankandas2222@gmail.com, @RektAlter, https://github.com/AnkanDas22
 
-, https://github.com/AnkanDas22
 >>Run application from dist\HologramMaker.exe
 
 >>For easier access, just right click on "HologramMaker.exe" and select "Send to->Desktop (Create Shortcut)"
